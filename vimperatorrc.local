@@ -38,3 +38,9 @@ source! .config/vimperator/vimperatorrc.private
 
 " Hide URL bar
 set toolbars=nonavigation
+
+silent qmark R http://cloud.feedly.com
+silent qmark g https://gmail.com
+silent qmark d https://duckduckgo.com
+silent qmark r http://reddit.com
+silent qmark h https://github.com
